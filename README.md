@@ -6,7 +6,6 @@
 This repository contains the computational implementation and numerical analysis accompanying the paper:
 
 > **"Chronology Protection via Quantum Extremal Islands: A Unitary Resolution Without Dynamical Excision"**  
-> Vedant Meshram  
 > arXiv: under-refree
 
 We demonstrate that closed timelike curve (CTC) interiors in Jackiw-Teitelboim (JT) gravity constitute quantum extremal islands whose entropy is regulated by replica wormhole saddles. Using analytic continuation from Euclidean time circles, we compute the island location $\rho_* \approx 0.728\,T$ inside the chronology horizon and show finite generalized entropy without dynamical excision.
