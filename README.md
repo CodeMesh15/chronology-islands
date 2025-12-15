@@ -1,7 +1,7 @@
 # Chronology Protection via Quantum Extremal Islands
 ---
 
-## 📄 Abstract
+##  Abstract
 
 This repository contains the computational implementation and numerical analysis accompanying the paper:
 
@@ -12,7 +12,7 @@ We demonstrate that closed timelike curve (CTC) interiors in Jackiw-Teitelboim (
 
 ---
 
-## 🎯 Key Results
+## Key Results
 
 - **Analytical solution:** Quantum extremal surface at $\rho_*^3 = \frac{3\phi_r}{4Gc}(T^2 - \rho_*^2)$
 - **Numerical verification:** For $c=12$, $\phi_r=10^3 G$, $T=10G$ → $\rho_* = 7.28\,G$
