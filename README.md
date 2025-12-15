@@ -1,8 +1,4 @@
 # Chronology Protection via Quantum Extremal Islands
-
-**Author:** Vedant Meshram (Indian Institute of Technology Kharagpur)  
-**Contact:** vedantmeshram104@kgpian.iitkgp.ac.in
-
 ---
 
 ## 📄 Abstract
