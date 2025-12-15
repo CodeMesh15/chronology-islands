@@ -26,7 +26,3 @@ We demonstrate that closed timelike curve (CTC) interiors in Jackiw-Teitelboim (
 
 ---
 
-## 🚀 Quick Start
-
-### Installation
-
