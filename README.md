@@ -14,7 +14,6 @@ We demonstrate that closed timelike curve (CTC) interiors in Jackiw-Teitelboim (
 
 ## Key Results
 
-- **Analytical solution:** Quantum extremal surface at $\rho_*^3 = \frac{3\phi_r}{4Gc}(T^2 - \rho_*^2)$
 - **Numerical verification:** For $c=12$, $\phi_r=10^3 G$, $T=10G$ → $\rho_* = 7.28\,G$
 - **Page curve behavior:** Generalized entropy $S_{\text{gen}}(\rho_*) = 37.2$ (finite)
 - **Semiclassical regime:** Island dominates when $Gc/\phi_r \ll 1$
